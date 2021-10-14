@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">WalletApplicatiom</string>
+    <string name="login">LOGIN</string>
+    <string name="customer_id">customer Id</string>
+    <string name="pin">pin</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_send_money">SendMoney</string>
+    <string name="title_activity_transaction_statement">TransactionStatement</string>
+    <string name="transaction_success">Transaction Success</string>
+    <string name="welcome_mark">Welcome Mark</string>
+    <string name="balance">Balance</string>
+    <string name="view_statement">View Statement</string>
+    <string name="last_transaction">Last Transaction</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="latest_transactions">Latest Transactions</string>
+    <string name="home">Home</string>
+    <string name="send_money">Send Money</string>
+    <string name="account_to">Account To</string>
+    <string name="send">Send</string>
+    <string name="last_100_transactions">Last 100 Transactions</string>
+    <string name="transaction_id">Transaction Id</string>
+    <string name="amount">Amount</string>
+</resources>
